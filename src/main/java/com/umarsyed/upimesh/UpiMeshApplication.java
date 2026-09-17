@@ -9,5 +9,4 @@ public class UpiMeshApplication {
     public static void main(String[] args) {
         SpringApplication.run(UpiMeshApplication.class, args);
     }
-
 }
